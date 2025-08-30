@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- LCJ Literature -->
+  <url>
+    <loc>https://www.articuarch.com/project/lcj-literature</loc>
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/CHq328kcW9Jpk4SZ1qsVMV3tow.jpg</image:loc>
+      <image:title>미백 이청준 문학관 건립</image:title>
+      <image:caption>미백 이청준 문학관 건립 - 중첩된 이야기 상자 | 전경 투시도</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+  </url>
+
+  <!-- Hwasuwon -->
+  <url>
+    <loc>https://www.articuarch.com/project/hwasuwon</loc>
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/WQZJ1V3ZD2iXWhaYgbBuESJJRE0.jpg</image:loc>
+      <image:title>서울대학교 캠퍼스환경융합관(화수원) 조성</image:title>
+      <image:caption>화수원: 시계의 확장 | 조감도</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+  </url>
+
+  <!-- Banghak -->
+  <url>
+    <loc>https://www.articuarch.com/project/banghak</loc>
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/MSJawfYTGhDDOkrzWFIujBG59E.jpg</image:loc>
+      <image:title>방학1동 주민센터 건립</image:title>
+      <image:caption>공공의 켜: 주민의 거실 | 전경 투시도</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+  </url>
+
+  <!-- Geumgok -->
+  <url>
+    <loc>https://www.articuarch.com/project/geumgok</loc>
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/4rmxMNK8YncdERcxZSz95oeRcgs.jpg</image:loc>
+      <image:title>수원 금곡동 공공도서관 건립</image:title>
+      <image:caption>인문경관으로서의 도서관 | 조감도</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+  </url>
+
+  <!-- Columbarium -->
+  <url>
+    <loc>https://www.articuarch.com/project/columbarium</loc>
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/CPMtNegwO9sZ95KEDYIjL0ltGCc.jpg</image:loc>
+      <image:title>Columbarium Memorial</image:title>
+      <image:caption>The Chamber of Memories | Perspective Image-1</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+  </url>
+
+  <!-- Pandaeri -->
+  <url>
+    <loc>https://www.articuarch.com/project/pandaeri</loc>
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/0lo0uUGEmN6LzZQ1mydyRYwkJRM.jpg</image:loc>
+      <image:title>판대리 관광농원 조성</image:title>
+      <image:caption>판대리 관광농원 조성 | 투시도_처마</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+  </url>
+
+  <!-- Sansusi -->
+  <url>
+    <loc>https://www.articuarch.com/project/sansusi</loc>
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/QXxhYncH98t2eCYJ6pbCFoTu1Y.jpg</image:loc>
+      <image:title>Sansusi Pavilion</image:title>
+      <image:caption>Sansusī Forest Food Court | Plan</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+  </url>
+
+  <!-- Fav -->
+  <url>
+    <loc>https://www.articuarch.com/project/fav</loc>
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/abwa0UmjygIHPPPyCrtWEmAimw.jpg</image:loc>
+      <image:title>SACREDNESS</image:title>
+      <image:caption>Pavilion for the Festival des Architectures Vives | Perspective Image</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+  </url>
+
+</urlset>
