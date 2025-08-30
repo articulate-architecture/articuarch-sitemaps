@@ -5,10 +5,39 @@
   <!-- LCJ Literature -->
   <url>
     <loc>https://www.articuarch.com/project/lcj-literature</loc>
+    <!-- Hero -->
     <image:image>
       <image:loc>https://framerusercontent.com/images/CHq328kcW9Jpk4SZ1qsVMV3tow.jpg</image:loc>
       <image:title>미백 이청준 문학관 건립</image:title>
       <image:caption>미백 이청준 문학관 건립 - 중첩된 이야기 상자 | 전경 투시도</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 1 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/ONQ9wzUCzdgsdF1CNBPLVKjAlk.jpg</image:loc>
+      <image:title>미백 이청준 문학관 건립 | 조감도</image:title>
+      <image:caption>미백 이청준 문학관 건립 - 중첩된 이야기 상자 | 조감도</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 2 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/sCnvKHxlbO8qvGpwpSNyF9xaHYA.jpg</image:loc>
+      <image:title>미백 이청준 문학관 건립 | 프로그램 다이어그램</image:title>
+      <image:caption>미백 이청준 문학관 건립 - 중첩된 이야기 상자 | 프로그램 다이어그램</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 3 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/GttpCwiPZvEqtNVNjRIqqg5T4.jpg</image:loc>
+      <image:title>미백 이청준 문학관 건립 | 투시도_인트로 전시실</image:title>
+      <image:caption>미백 이청준 문학관 건립 - 중첩된 이야기 상자 | 투시도_인트로 전시실</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 4 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/QmhWcnD7B0rdRoy8O3Cz6YNRI.jpg</image:loc>
+      <image:title>미백 이청준 문학관 건립 | 투시도_우물마루전경</image:title>
+      <image:caption>미백 이청준 문학관 건립 - 중첩된 이야기 상자 | 투시도_우물마루전경</image:caption>
       <image:license>https://www.articuarch.com/about</image:license>
     </image:image>
   </url>
@@ -16,10 +45,39 @@
   <!-- Hwasuwon -->
   <url>
     <loc>https://www.articuarch.com/project/hwasuwon</loc>
+    <!-- Hero -->
     <image:image>
       <image:loc>https://framerusercontent.com/images/WQZJ1V3ZD2iXWhaYgbBuESJJRE0.jpg</image:loc>
-      <image:title>서울대학교 캠퍼스환경융합관(화수원) 조성</image:title>
-      <image:caption>화수원: 시계의 확장 | 조감도</image:caption>
+      <image:title>서울대학교 캠퍼스환경융합관(화수원)</image:title>
+      <image:caption>서울대학교 캠퍼스환경융합관(화수원) 조성 - 화수원: 시계의 확장 | 조감도</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 1 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/1JWW3lpfmzoOhXXQHx3rfd63E.jpg</image:loc>
+      <image:title>서울대학교 캠퍼스환경융합관(화수원) | 전경 투시도</image:title>
+      <image:caption>서울대학교 캠퍼스환경융합관(화수원) 조성 - 화수원: 시계의 확장 | 전경 투시도</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 2 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/Hd7FrO9WqimelDn5hjT4o9d0c.jpg</image:loc>
+      <image:title>서울대학교 캠퍼스환경융합관(화수원) | 프로그램 다이어그램</image:title>
+      <image:caption>서울대학교 캠퍼스환경융합관(화수원) 조성 - 화수원: 시계의 확장 | 프로그램 다이어그램</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 3 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/hoUKZscdxRRsOZJLZgqrvPLhZ3c.jpg</image:loc>
+      <image:title>서울대학교 캠퍼스환경융합관(화수원) | 투시도_온실</image:title>
+      <image:caption>서울대학교 캠퍼스환경융합관(화수원) 조성 - 화수원: 시계의 확장 | 투시도_온실</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 4 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/yvgKmWKRx0QUM2lB0DRhBPueiU.jpg</image:loc>
+      <image:title>서울대학교 캠퍼스환경융합관(화수원) | 투시도_온실테라스</image:title>
+      <image:caption>서울대학교 캠퍼스환경융합관(화수원) 조성 - 화수원: 시계의 확장 | 투시도_온실테라스</image:caption>
       <image:license>https://www.articuarch.com/about</image:license>
     </image:image>
   </url>
@@ -30,7 +88,35 @@
     <image:image>
       <image:loc>https://framerusercontent.com/images/MSJawfYTGhDDOkrzWFIujBG59E.jpg</image:loc>
       <image:title>방학1동 주민센터 건립</image:title>
-      <image:caption>공공의 켜: 주민의 거실 | 전경 투시도</image:caption>
+      <image:caption>방학1동 주민센터 건립 - 공공의 켜: 주민의 거실 | 전경 투시도1</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 1 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/Fy6WT4ZJUVSqpU1A1CQU0yNSCTg.jpg</image:loc>
+      <image:title>방학1동 주민센터 건립 | 전경 투시도2</image:title>
+      <image:caption>방학1동 주민센터 건립 - 공공의 켜: 주민의 거실 | 전경 투시도2</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 2 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/4UHN0gfjyB6d5vj15PSUck8jI.jpg</image:loc>
+      <image:title>방학1동 주민센터 건립 | 프로그램 다이어그램</image:title>
+      <image:caption>방학1동 주민센터 건립 - 공공의 켜: 주민의 거실 | 프로그램 다이어그램</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 3 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/AuKx5F3PoAaFti1QirRGDGscM24.jpg</image:loc>
+      <image:title>방학1동 주민센터 건립 | 투시도_도서라운지</image:title>
+      <image:caption>방학1동 주민센터 건립 - 공공의 켜: 주민의 거실 | 투시도_도서라운지</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 4 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/QT60EWTqN4PJ2ZmkMESs6wsPYXQ.jpg</image:loc>
+      <image:title>방학1동 주민센터 건립 | 조감도</image:title>
+      <image:caption>방학1동 주민센터 건립 - 공공의 켜: 주민의 거실 | 조감도</image:caption>
       <image:license>https://www.articuarch.com/about</image:license>
     </image:image>
   </url>
@@ -39,9 +125,37 @@
   <url>
     <loc>https://www.articuarch.com/project/geumgok</loc>
     <image:image>
-      <image:loc>https://framerusercontent.com/images/4rmxMNK8YncdERcxZSz95oeRcgs.jpg</image:loc>
+      <image:loc>https://framerusercontent.com/images/920b3c90pjsgyMVmUQQpIiJlUo.jpg</image:loc>
       <image:title>수원 금곡동 공공도서관 건립</image:title>
-      <image:caption>인문경관으로서의 도서관 | 조감도</image:caption>
+      <image:caption>수원 금곡동 공공도서관 건립 - 인문경관으로서의 도서관 | 조감도</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 1 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/Q45ke7N9rgENSrrFkmu5LW9yE.jpg</image:loc>
+      <image:title>수원 금곡동 공공도서관 건립 | 전경 투시도</image:title>
+      <image:caption>수원 금곡동 공공도서관 건립 - 인문경관으로서의 도서관 | 전경 투시도</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 2 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/2SxvE9P0RmYTag8wSAanNv1DU.jpg</image:loc>
+      <image:title>수원 금곡동 공공도서관 건립 | 투시도_열람실</image:title>
+      <image:caption>수원 금곡동 공공도서관 건립 - 인문경관으로서의 도서관 | 투시도_열람실</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 3 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/oPDQbLVnSfy2tUnDvNZ7hhk8cLc.jpg</image:loc>
+      <image:title>수원 금곡동 공공도서관 건립 | 투시도_2층보행로</image:title>
+      <image:caption>수원 금곡동 공공도서관 건립 - 인문경관으로서의 도서관 | 투시도_2층보행로</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 4 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/s599BmWaAr3MVTbvkoPzoU85u0.jpg</image:loc>
+      <image:title>수원 금곡동 공공도서관 건립 | 투시도_서가</image:title>
+      <image:caption>수원 금곡동 공공도서관 건립 - 인문경관으로서의 도서관 | 투시도_서가</image:caption>
       <image:license>https://www.articuarch.com/about</image:license>
     </image:image>
   </url>
@@ -50,9 +164,37 @@
   <url>
     <loc>https://www.articuarch.com/project/columbarium</loc>
     <image:image>
-      <image:loc>https://framerusercontent.com/images/CPMtNegwO9sZ95KEDYIjL0ltGCc.jpg</image:loc>
+      <image:loc>https://framerusercontent.com/images/qDgrbALxSBGnQQwSjKz9FtDjxEA.jpg</image:loc>
       <image:title>Columbarium Memorial</image:title>
-      <image:caption>The Chamber of Memories | Perspective Image-1</image:caption>
+      <image:caption>Columbarium Memorial - The Chamber of Memories | Perspective Image-1</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 1 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/qbTTVEcJsJiRYdo0keHyCum83I.jpg</image:loc>
+      <image:title>Columbarium Memorial | Site Plan</image:title>
+      <image:caption>Columbarium Memorial - The Chamber of Memories | Site Plan</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 2 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/4AcPMdWyOmUHDmXdReQxLnU.jpg</image:loc>
+      <image:title>Columbarium Memorial | Mass Diagram</image:title>
+      <image:caption>Columbarium Memorial - The Chamber of Memories | Mass Diagram</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 3 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/dViyTlDiInGGJtg1wzwnVcnu4.jpg</image:loc>
+      <image:title>Columbarium Memoria | Perspective Image-2l</image:title>
+      <image:caption>Columbarium Memorial - The Chamber of Memories | Perspective Image-2</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 4 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/25oaUPelZukDQo31FY1Ri66S2k.jpg</image:loc>
+      <image:title>Columbarium Memorial | Detail Section</image:title>
+      <image:caption>Columbarium Memorial - The Chamber of Memories | Detail Section</image:caption>
       <image:license>https://www.articuarch.com/about</image:license>
     </image:image>
   </url>
@@ -61,9 +203,37 @@
   <url>
     <loc>https://www.articuarch.com/project/pandaeri</loc>
     <image:image>
-      <image:loc>https://framerusercontent.com/images/0lo0uUGEmN6LzZQ1mydyRYwkJRM.jpg</image:loc>
+      <image:loc>https://framerusercontent.com/images/uLL5qXsHF7hlHltk3trZBq1bixE.jpg</image:loc>
       <image:title>판대리 관광농원 조성</image:title>
-      <image:caption>판대리 관광농원 조성 | 투시도_처마</image:caption>
+      <image:caption>판대리 관광농원 조성 | 투시도_처마1</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 1 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/IGcHVr801mLpLyla8uMIwUgkTSY.jpg</image:loc>
+      <image:title>판대리 관광농원 조성 | 조감도</image:title>
+      <image:caption>판대리 관광농원 조성 | 조감도</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 2 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/ojm7gitZf0lWZC6YaDLkCHKJsk.jpg</image:loc>
+      <image:title>판대리 관광농원 조성 | 투시도_썬룸1</image:title>
+      <image:caption>판대리 관광농원 조성 | 투시도_썬룸1</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 3 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/bAGOWfnL810KtoiHasDZ1uUkjuY.jpg</image:loc>
+      <image:title>판대리 관광농원 조성 | 투상도</image:title>
+      <image:caption>판대리 관광농원 조성 | 투상도</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 4 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/OHg0Y39c8x3X3Myf2dHyN7tomd4.jpg</image:loc>
+      <image:title>판대리 관광농원 조성 | 투시도_처마2</image:title>
+      <image:caption>판대리 관광농원 조성 | 투시도_처마2</image:caption>
       <image:license>https://www.articuarch.com/about</image:license>
     </image:image>
   </url>
@@ -72,20 +242,76 @@
   <url>
     <loc>https://www.articuarch.com/project/sansusi</loc>
     <image:image>
-      <image:loc>https://framerusercontent.com/images/QXxhYncH98t2eCYJ6pbCFoTu1Y.jpg</image:loc>
+      <image:loc>https://framerusercontent.com/images/KKPRyLWmOrdutsfJG021mQyjWk.jpg</image:loc>
       <image:title>Sansusi Pavilion</image:title>
-      <image:caption>Sansusī Forest Food Court | Plan</image:caption>
+      <image:caption>Sansusī Forest Food Court - Sansusi Pavilion | Plan</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 1 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/lkAz0buScpifSdT8DFps8hKXCI.jpg</image:loc>
+      <image:title>Sansusi Pavilion | Diagram</image:title>
+      <image:caption>Sansusī Forest Food Court - Sansusi Pavilion | Diagram</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 2 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/6Zxauamikk9T2BqUTM1kr1Qo.jpg</image:loc>
+      <image:title>Sansusi Pavilion | Perspective Image-1</image:title>
+      <image:caption>Sansusī Forest Food Court - Sansusi Pavilion | Perspective Image-1</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 3 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/OmixZQmrSz2rnYFJrgOw4SZJG0.jpg</image:loc>
+      <image:title>Sansusi Pavilion | Perspective Image-2</image:title>
+      <image:caption>Sansusī Forest Food Court - Sansusi Pavilion | Perspective Image-2</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 4 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/DGkCmzvfePUtapbbsYRcjlVpXQ.jpg</image:loc>
+      <image:title>Sansusi Pavilion | Detail Section</image:title>
+      <image:caption>Sansusī Forest Food Court - Sansusi Pavilion | Detail Section</image:caption>
       <image:license>https://www.articuarch.com/about</image:license>
     </image:image>
   </url>
 
-  <!-- Fav -->
+  <!-- SACREDNESS -->
   <url>
     <loc>https://www.articuarch.com/project/fav</loc>
     <image:image>
-      <image:loc>https://framerusercontent.com/images/abwa0UmjygIHPPPyCrtWEmAimw.jpg</image:loc>
+      <image:loc>https://framerusercontent.com/images/TPucudytkivAaFP9OezPCMhdog.jpg</image:loc>
       <image:title>SACREDNESS</image:title>
-      <image:caption>Pavilion for the Festival des Architectures Vives | Perspective Image</image:caption>
+      <image:caption>Pavilion for the Festival des Architectures Vives - SACREDNESS | Perspective Image-1</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 1 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/Ee4TMVkAQoqcX46Qkc5DTgC2KM.jpg</image:loc>
+      <image:title>SACREDNESS | Existing Context</image:title>
+      <image:caption>Pavilion for the Festival des Architectures Vives - SACREDNESS | Existing Context</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 2 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/53xm9NZSycle1ont4PVeVC9hp9U.jpg</image:loc>
+      <image:title>SACREDNESS | Diagram-2</image:title>
+      <image:caption>Pavilion for the Festival des Architectures Vives - SACREDNESS | Diagram-2</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 3 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/8mjMli3LJ5pL0D0gpltBuwYNY.jpg</image:loc>
+      <image:title>SACREDNESS | Diagram-3</image:title>
+      <image:caption>Pavilion for the Festival des Architectures Vives - SACREDNESS | Diagram-3</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 4 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/abwa0UmjygIHPPPyCrtWEmAimw.jpg</image:loc>
+      <image:title>SACREDNESS | Perspective Image-2</image:title>
+      <image:caption>Pavilion for the Festival des Architectures Vives - SACREDNESS | Perspective Image-2</image:caption>
       <image:license>https://www.articuarch.com/about</image:license>
     </image:image>
   </url>
