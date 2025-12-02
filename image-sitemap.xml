@@ -2,6 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
+  <!-- gunbuk -->
+  <url>
+    <loc>https://www.articuarch.com/project/gunbuk</loc>
+    <!-- Hero -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/kFKX7BKbqCAUf2DJA9KjnptiDI.jpg?scale-down-to=2048&width=5000&height=2500</image:loc>
+      <image:title>군북농공단지 청년문화센터</image:title>
+      <image:caption>군북농공단지 청년문화센터 | 전경 투시도</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 1 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/eBuJW4jjK9MSw3r3gTOQ2qOJX8.jpg?scale-down-to=2048&width=5000&height=2500</image:loc>
+      <image:title>군북농공단지 청년문화센터 | 진입마당 투시도</image:title>
+      <image:caption>군북농공단지 청년문화센터 | 진입마당 투시도</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 2 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/MUAzQmd0mRGuV3jJ784xm11c.jpg?scale-down-to=2048&width=5000&height=2500</image:loc>
+      <image:title>군북농공단지 청년문화센터 | 휴게마당 투시도</image:title>
+      <image:caption>군북농공단지 청년문화센터 | 휴게마당 투시도</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 3 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/4LZhcKAI9J08kdzGih3b7jkxcA.jpg?scale-down-to=1024&width=5000&height=2500</image:loc>
+      <image:title>군북농공단지 청년문화센터 | 2층 공유실 투시도</image:title>
+      <image:caption>군북농공단지 청년문화센터 | 2층 공유실 투시도</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 4 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/V9NanZGzkP8rvgiC34euVXDWQ.jpg?scale-down-to=1024&width=5000&height=2500</image:loc>
+      <image:title>군북농공단지 청년문화센터 | 3층 공유거실 투시도</image:title>
+      <image:caption>군북농공단지 청년문화센터 | 3층 공유거실 투시도</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+  </url>
+        
   <!-- LCJ Literature -->
   <url>
     <loc>https://www.articuarch.com/project/lcj-literature</loc>
@@ -317,3 +357,4 @@
   </url>
 
 </urlset>
+
