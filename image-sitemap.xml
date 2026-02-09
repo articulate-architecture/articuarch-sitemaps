@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
+ <!-- offsetchair -->
+  <url>
+    <loc>https://www.articuarch.com/project/offsetchair</loc>
+    <!-- Hero -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/omt1z6kjLHEa0inczcnI2UgOU0.jpg</image:loc>
+      <image:title>Offset Chair | Main View</image:title>
+      <image:caption>Offset Chair | Main View</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 1 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/2MWezlAWhq1UVa9EZXjyJ97rtVE.jpg</image:loc>
+      <image:title>Offset Chair | Front View</image:title>
+      <image:caption>Offset Chair | Front View</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 2 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/qZ1lRe1Xdb2pgxOVm38WGrqB2k.jpg</image:loc>
+      <image:title>Offset Chair | Top View</image:title>
+      <image:caption>Offset Chair | Top View</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+    <!-- 추가 이미지 3 -->
+    <image:image>
+      <image:loc>https://framerusercontent.com/images/U6tnwm53CVKD2YXVx3GU6DjY7I.jpg</image:loc>
+      <image:title>Offset Chair | Diagram</image:title>
+      <image:caption>Offset Chair | Diagram</image:caption>
+      <image:license>https://www.articuarch.com/about</image:license>
+    </image:image>
+  </url>
+        
  <!-- yeonnam -->
   <url>
     <loc>https://www.articuarch.com/project/yeonnam</loc>
@@ -397,6 +430,7 @@
   </url>
 
 </urlset>
+
 
 
 
